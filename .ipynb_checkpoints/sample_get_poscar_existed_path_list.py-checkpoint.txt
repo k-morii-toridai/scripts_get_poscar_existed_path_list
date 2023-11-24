@@ -1,0 +1,5 @@
+# how to use:
+python3 get_poscar_existed_path_list.py <cif/というディレクトリのパス>
+
+# exaple:
+python3 get_poscar_existed_path_list.py /mnt/ssd_elecom_black_c2c_480G/cif
